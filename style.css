@@ -1,0 +1,45 @@
+body
+{
+ font-size: 25px;   
+ background-size:cover;
+}
+
+.div_speed 
+{
+    float: left;
+}
+
+
+
+#speed
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+
+
+
+#Volume
+{
+    font-size: 25px;
+    margin: 15px;
+}
+
+.play
+{
+    margin: 15px;
+    font-size: 25px;
+}
+
+canvas
+{
+    padding-top: 130px;
+    border-radius: 5px solidwhite;
+    border-radius: 20px;
+}
